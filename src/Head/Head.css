@@ -1,0 +1,12 @@
+.head-container{
+    width: 100%;
+    border: 3px solid  #82954B;
+}
+
+.head-links{
+    display: flex;
+}
+
+.head-links li{
+    margin-right: 20px;
+}
