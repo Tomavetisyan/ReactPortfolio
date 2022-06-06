@@ -3,6 +3,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  color: #FCDAB7;
 }
 
 html {
@@ -12,8 +13,7 @@ div{
   display: block;
 }
 body {
-  font-family: "Poppins", sans-serif;
-  background-color: white;
+  background-color: #191919;
 }
 
 .hover:hover{
@@ -21,9 +21,13 @@ body {
   cursor: pointer;
 }
 
+img{
+  max-width: 100%;
+  max-height: 100%;
+}
+
 a {
   text-decoration: none;
-  color: black;
 }
 
 li {

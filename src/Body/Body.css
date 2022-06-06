@@ -1,55 +1,64 @@
 .body{
-    border: 3px solid  #82954B;
+    border: 3px solid  #3E2C41;
 }
 
-.project-container{
+.projects{
     width: 80%;
-    margin: 0 auto 0 auto;
+    margin: 70px auto 50px auto;
 }
 
-.project-container article {
-		
-    border-top: solid 3px #f4f4f4;
-    margin-bottom: 2.25em;
-    padding-top: 2.25em;
+.project-list{
+    display: grid;
+    grid-gap: 30px;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    list-style: none;
+    grid-auto-rows: minmax(500px, auto)
 }
-    .project-container article:first-child {
-        border-top: 0;
-        padding-top: 0;
-    }
 
-    .project-container article .image {
-        
-        display: inline-block;
-        padding-right: 2.5em;
-        vertical-align: middle;
-        width: 48%;
-        border:0;
-        
-    }
+.project-list li{
+    justify-content: center;
+}
 
-        .project-container article .image img {
-            display: block;
-            width: 100%;
-            transition: transform .2s;
-            border: 2px;
-            border-color: #79b3ee;
-            border-style: solid;
-        }
-        .project-container article .image img:hover {
-            transform: scale(1.2);
-        }
+.project-list li img{
+    vertical-align: middle;
+    max-width: 370px;
+    max-height: 350px;
+    height: 48%;
+}
 
-    .project-container article .inner {
-        display: inline-block;
-        vertical-align: middle;
-        width: 50%;
-    }
-        .project-container article .inner a {
-            color: #79b3ee;
-            border-color: #79b3ee;
-        }
+.project-list li .image img {
+    display: block;
+    width: 100%;
+    transition: transform .2s;
+    border: 3px;
+    border-color: #5C527F;
+    border-style: solid;
+    margin-left: auto;
+    margin-right: auto;
+}
 
-        .project-container article .inner > :last-child {
-            margin-bottom: 0;
-        }
+.project-list li img:hover {
+    transform: scale(1.1);
+}
+
+.inner{
+    margin: auto;
+    display: block;
+    padding-top: 15px;
+    height: 52%;
+    max-width: 400px;
+}
+
+.inner p{
+    margin: 4px 4px 4px 4px;
+    text-align: center;
+}
+
+.inner h4{
+    text-align: center;
+}
+
+.test{
+    inline-size: 150px;
+    overflow-wrap: break-word;
+}

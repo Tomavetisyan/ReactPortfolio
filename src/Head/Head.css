@@ -1,10 +1,16 @@
 .head-container{
+    position: fixed;
+    z-index: 1;
+    background-color: #191919;
     width: 100%;
-    border: 3px solid  #82954B;
+    border: 3px solid  #3E2C41;
+    height: 50px;
+    margin-bottom: 10px;
 }
 
 .head-links{
     display: flex;
+    transform: translateY(50%);
 }
 
 .head-links li{
