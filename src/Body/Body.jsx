@@ -14,8 +14,7 @@ class Body extends React.Component{
                                 <h4>YelpSearch</h4>
                                 <p>&emsp; 
                                     YelpSearch is a React project designed to utilize the Yelp API to return a list of restaurants. The user can input the type of food and the location that they want to search for.
-                                    Results can be sorted by best match, rating, and most reviewed YelpSearch is a React project designed to utilize the Yelp API to return a list of restaurants. The user can input the type of food and the location that they want to search for.
-                                    
+                                    Results can be sorted by best match, rating, and most reviewed YelpSearch is a React project designed to utilize the Yelp API to return a list of restaurants.
                                 </p>
                             </div>
                         </li>
