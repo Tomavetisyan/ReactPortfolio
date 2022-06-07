@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.54e8fb0d.css",
+    "main.js": "/ReactPortfolio/static/js/main.0b33da50.js",
+    "static/media/YelpSearch.jpg": "/ReactPortfolio/static/media/YelpSearch.20b0d34e9bec8361f40c.jpg",
+    "static/media/Jamming.jpg": "/ReactPortfolio/static/media/Jamming.ff4a56e57761a00fd969.jpg",
+    "static/media/paint.png": "/ReactPortfolio/static/media/paint.192d8ac326f7da8ea8f8.png",
+    "static/media/cool.png": "/ReactPortfolio/static/media/cool.b1f6b7a7b2295961b970.png",
+    "static/media/math.jpg": "/ReactPortfolio/static/media/math.f55902e9af0b782e7d9a.jpg",
+    "static/media/circuitBoard.jpg": "/ReactPortfolio/static/media/circuitBoard.3e4df875d5430c647013.jpg",
+    "static/media/pokemon.jpg": "/ReactPortfolio/static/media/pokemon.f64fc3c8bfd72c7b7ba9.jpg",
+    "static/media/mctickets.png": "/ReactPortfolio/static/media/mctickets.e3b2576d2ff56de1383a.png",
+    "index.html": "/ReactPortfolio/index.html",
+    "main.54e8fb0d.css.map": "/ReactPortfolio/static/css/main.54e8fb0d.css.map",
+    "main.0b33da50.js.map": "/ReactPortfolio/static/js/main.0b33da50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54e8fb0d.css",
+    "static/js/main.0b33da50.js"
+  ]
+}
