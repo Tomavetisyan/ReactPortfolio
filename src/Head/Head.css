@@ -1,18 +1,67 @@
-.head-container{
+.head{
+    width: 100%;
     position: fixed;
     z-index: 1;
-    background-color: #191919;
-    width: 100%;
-    border: 3px solid  #3E2C41;
     height: 50px;
-    margin-bottom: 10px;
 }
 
-.head-links{
+.head-container{
+    width: 90%;
+    margin-left: 50px;
+    margin-right: auto;
     display: flex;
-    transform: translateY(50%);
+    justify-content: space-between;
+    align-items: center;
+}   
+
+.icon-container{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 50px;
+    width: 50px;
 }
 
-.head-links li{
-    margin-right: 20px;
+.left{
+    margin-left: 10px;
 }
+
+.right{
+    display: flex;
+    justify-content: center;
+}
+
+.icon{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.fa-solid{
+    margin-top: 5px;
+    margin-left: 1px;
+    font-size: 40px;
+    background: -webkit-linear-gradient(225deg, rgb(251, 175, 21), rgb(251, 21, 242),             
+    rgb(21, 198, 251)) 0% 0% / 300% 300%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: 2s ease 0s infinite normal none running fontgradient;
+    -webkit-animation: fontgradient 10s ease infinite;
+    -moz-animation: fontgradient 10s ease infinite;
+    animation: fontgradient 10s ease infinite; 
+}
+@-webkit-keyframes fontgradient {
+    0%{background-position:0% 92%}
+    50%{background-position:100% 9%}
+    100%{background-position:0% 92%}
+    }
+    @-moz-keyframes fontgradient {
+    0%{background-position:0% 92%}
+    50%{background-position:100% 9%}
+    100%{background-position:0% 92%}
+    }
+    @keyframes fontgradient { 
+    0%{background-position:0% 92%}
+    50%{background-position:100% 9%}
+    100%{background-position:0% 92%}
+    }  
+

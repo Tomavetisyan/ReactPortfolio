@@ -7,9 +7,10 @@ class Body extends React.Component{
         return(
             <div className="body">
                 <div className="projects center">
+                    <h1>Projects</h1>
                     <ul className="project-list">
                         <li>
-                            <a href="https://github.com/Tomavetisyan/CircuitPlaygroundExpress"  class="image"><img src={require("./images/YelpSearch.jpg")} alt="" /></a>
+                            <a href="https://github.com/Tomavetisyan/ReactYelp"  class="image"><img src={require("./images/YelpSearch.jpg")} alt="" /></a>
                             <div class="inner">
                                 <h4>YelpSearch</h4>
                                 <p>&emsp; 
@@ -19,7 +20,7 @@ class Body extends React.Component{
                             </div>
                         </li>
                         <li >
-                            <a href="https://github.com/Tomavetisyan/CircuitPlaygroundExpress"  class="image"><img src={require("./images/Jamming.jpg")} alt="" /></a>
+                            <a href="https://github.com/Tomavetisyan/jamming"  class="image"><img src={require("./images/Jamming.jpg")} alt="" /></a>
                             <div class="inner">
                                 <h4>Spotify: Jamming</h4>
                                 <p>&emsp; 
@@ -78,7 +79,6 @@ class Body extends React.Component{
                                     I used event listeners to capture mouse interactions to perform paint tasks with html canvas. I designed and created the entire UI and icon design froms scratch. 
                                     Users are able to perform tasks such as painting with a brush, adding shapes, changing color pallets, undo and redoing actions, saving their files, and much more.
                                 </p>
-                                <a href="Paint/paint.html" >Live Demo Link</a>
                             </div>
                         </li>
                         <li >
