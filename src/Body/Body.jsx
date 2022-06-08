@@ -6,7 +6,7 @@ class Body extends React.Component{
     render(){
         return(
             <div className="body">
-                <div className="projects center">
+                <div className="projects">
                     <h1>Projects</h1>
                     <ul className="project-list">
                         <li>
@@ -66,7 +66,7 @@ class Body extends React.Component{
                                 <h4>C.O.O.L.---C-Object-Oriented-Language</h4>
                                 <p> &emsp;With a small team, we created a compiler using Java, which would translate and output workable C code. 
                                     Our compiler would parse through the java, tokenize each syntax into a long array, parse through the array, and compile the new C code.
-                                    I created the parser that read in tokens and verified that the output expression is valid C code. I also used the Maven framework to write unit tests.
+                                    I created the parser that read in tokens and verified the proper output. Unit tests are done in Maven.
 
                                 </p>
                             </div>
@@ -76,8 +76,8 @@ class Body extends React.Component{
                             <div class="inner">
                                 <h4>JavaScript-Paint</h4>
                                 <p> &emsp;I created a web based paint software using HTML5, CSS, and Javascript using Jquery.
-                                    I used event listeners to capture mouse interactions to perform paint tasks with html canvas. I designed and created the entire UI and icon design froms scratch. 
-                                    Users are able to perform tasks such as painting with a brush, adding shapes, changing color pallets, undo and redoing actions, saving their files, and much more.
+                                    I used event listeners to capture mouse interactions to perform paint tasks with html canvas. I designed and created the entire UI and icon design from scratch. 
+                                    Users are able to perform tasks such as painting with a brush, adding shapes, changing color pallets and much more.
                                 </p>
                             </div>
                         </li>

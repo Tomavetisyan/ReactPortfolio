@@ -12,10 +12,8 @@ class Head extends React.Component{
         return(
             <div className="head">
                 <div className="head-container">
-                    <div className="icon-container">
-                       <i className="fa-solid fa-shrimp"></i>
-                    </div>
                     <div className="left">
+                        <i className="fa-solid fa-shrimp"></i>
                         <h1>Tommy Avetisyan</h1>
                     </div>
 
