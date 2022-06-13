@@ -13,7 +13,7 @@ class Head extends React.Component{
             <div className="head">
                 <div className="head-container">
                     <div className="left">
-                        <i className="fa-solid fa-shrimp"></i>
+                        <a href="https://tomavetisyan.github.io/Toms-Shrimp/" className=""> <i className="fa-solid fa-shrimp"></i></a>
                         <h1>Tommy Avetisyan</h1>
                     </div>
 
