@@ -27,7 +27,7 @@ class Body extends React.Component{
                                 <h4>Tom's Shrimp</h4>
                                 <p>&emsp; 
                                     Tom's Shrimp is my personal website where I post pictures of the exotic pets that I take care of in my hobby. We breed unique colored shrimp. Some of these breeding
-                                    projects are 8 generation of shrimp in and over 1 year old.
+                                    projects are 8 generation of shrimp in and over a year old.
                                 </p>
                                 <h5 className="">Follow me on <a href="https://www.tiktok.com/@toms_shrimp" className="">Tiktok</a></h5>
                             </div>
