@@ -10,6 +10,29 @@ class Body extends React.Component{
                     <h1>Projects</h1>
                     <ul className="project-list">
                         <li>
+                            <a href="https://github.com/Tomavetisyan/microgreens"  class="image"><img src={require("./images/Microgreeny.jpg")} alt="" /></a>
+                            <div class="inner">
+                                <h4>Microgreeney</h4>
+                                <p>&emsp; 
+                                    Microgreeny is a react E-commerce website I am making for a startup company in West Hollywood, CA. I am working with the owner directly on the design.
+                                    Direct contact is constant with the owner as they are able to view the live website as it is being hosted on Github Pages. The company is still
+                                    in its very early stages so not everything is going to be final.
+                                </p>
+                                <h5 className="">Follow me on <a href="https://www.tiktok.com/@toms_shrimp" className="">Tiktok</a></h5>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="https://github.com/Tomavetisyan/Toms-Shrimp"  class="image"><img src={require("./images/Shrimp-1.jpg")} alt="" /></a>
+                            <div class="inner">
+                                <h4>Tom's Shrimp</h4>
+                                <p>&emsp; 
+                                    Tom's Shrimp is my personal website were I post pictures of the exotic pets that I take care of in my hobby. We breed unique colored shrimp. Some of these breeding
+                                    projects are 8 generation of shrimp in and over 1 year old.
+                                </p>
+                                <h5 className="">Follow me on <a href="https://www.tiktok.com/@toms_shrimp" className="">Tiktok</a></h5>
+                            </div>
+                        </li>
+                        <li>
                             <a href="https://github.com/Tomavetisyan/ReactYelp"  class="image"><img src={require("./images/YelpSearch.jpg")} alt="" /></a>
                             <div class="inner">
                                 <h4>YelpSearch</h4>
