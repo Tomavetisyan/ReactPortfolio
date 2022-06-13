@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.a018b423.css",
-    "main.js": "/ReactPortfolio/static/js/main.eca767b8.js",
+    "main.css": "/ReactPortfolio/static/css/main.88151c91.css",
+    "main.js": "/ReactPortfolio/static/js/main.c0fe5dd3.js",
     "static/media/YelpSearch.jpg": "/ReactPortfolio/static/media/YelpSearch.20b0d34e9bec8361f40c.jpg",
+    "static/media/Microgreeny.jpg": "/ReactPortfolio/static/media/Microgreeny.57e46a93230490df97f1.jpg",
+    "static/media/Shrimp-1.jpg": "/ReactPortfolio/static/media/Shrimp-1.c838728407e463844dda.jpg",
     "static/media/Jamming.jpg": "/ReactPortfolio/static/media/Jamming.ff4a56e57761a00fd969.jpg",
     "static/media/paint.png": "/ReactPortfolio/static/media/paint.192d8ac326f7da8ea8f8.png",
     "static/media/cool.png": "/ReactPortfolio/static/media/cool.b1f6b7a7b2295961b970.png",
@@ -11,11 +13,11 @@
     "static/media/pokemon.jpg": "/ReactPortfolio/static/media/pokemon.f64fc3c8bfd72c7b7ba9.jpg",
     "static/media/mctickets.png": "/ReactPortfolio/static/media/mctickets.e3b2576d2ff56de1383a.png",
     "index.html": "/ReactPortfolio/index.html",
-    "main.a018b423.css.map": "/ReactPortfolio/static/css/main.a018b423.css.map",
-    "main.eca767b8.js.map": "/ReactPortfolio/static/js/main.eca767b8.js.map"
+    "main.88151c91.css.map": "/ReactPortfolio/static/css/main.88151c91.css.map",
+    "main.c0fe5dd3.js.map": "/ReactPortfolio/static/js/main.c0fe5dd3.js.map"
   },
   "entrypoints": [
-    "static/css/main.a018b423.css",
-    "static/js/main.eca767b8.js"
+    "static/css/main.88151c91.css",
+    "static/js/main.c0fe5dd3.js"
   ]
 }
