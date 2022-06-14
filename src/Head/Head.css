@@ -2,7 +2,6 @@
     width: 100%;
     position: fixed;
     z-index: 1;
-    height: 50px;
 }
 
 .head-container{
@@ -76,10 +75,14 @@
     .head-container{
         display: block;
     }
+    .left{
+        text-align: center;
+    }
 
     .middle{
         text-align: center;
         padding-left: 0px;
+        padding-right: 40px;
     }
     .right{
         margin: 5px;

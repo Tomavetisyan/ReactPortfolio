@@ -18,7 +18,6 @@ class Body extends React.Component{
                                     Direct contact is constant with the owner as they are able to view the live website as it is being hosted on Github Pages. The company is still
                                     in its very early stages so not everything is going to be final.
                                 </p>
-                                <h5 className="">Follow me on <a href="https://www.tiktok.com/@toms_shrimp" className="">Tiktok</a></h5>
                             </div>
                         </li>
                         <li>
